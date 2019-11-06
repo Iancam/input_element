@@ -1,0 +1,14 @@
+{
+  "name": "label_input",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "files": [
+    "readme.md",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iancam/input_element.git"
+  }
+}
